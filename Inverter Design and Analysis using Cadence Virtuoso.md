@@ -407,6 +407,7 @@ tpdr value in calculator = 11.21E-12 units
 
 tpdf value in calculator = 11.2E-12 units
 ## **11. Noise Margin of Inverter**
+![](Images/11.1.png)
 
 Found at the points where the derivative is -1.
 
