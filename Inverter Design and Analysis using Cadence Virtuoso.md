@@ -58,7 +58,7 @@ This basic project acts as a bridge and a guide for the usage of EAD tool Cadenc
 
 Add the instances like NMOS, 2 Vdc voltages for Vgs and Vds and add ground to all 4 terminals.
 
-![[New%20folder/Pasted%20image%2020231022125842.png]]
+![](New%20folder/Pasted%20image%2020231022125842.png)
 
 ![[New%20folder/Pasted image 20231022125859.png]]
 ### **1.2. DC Analysis - Id vs Vds plot (constant Vgs)**
