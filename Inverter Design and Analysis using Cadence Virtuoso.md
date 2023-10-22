@@ -410,9 +410,6 @@ tpdf value in calculator = 11.2E-12 units
 
 Found at the points where the derivative is -1.
 
-![](Images/11.1.png)
-
-
 NMh = Voh-Vih = Vdd-Vih = 1-Vih
 
 NMl = Vil-Vol = Vil
