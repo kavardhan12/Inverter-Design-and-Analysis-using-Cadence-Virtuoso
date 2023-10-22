@@ -71,20 +71,20 @@ This basic project acts as a bridge and a guide for the usage of EAD tool Cadenc
 
 Add the instances like NMOS, 2 Vdc voltages for Vgs and Vds and add ground to all 4 terminals.
 
-![[Pasted image 20231022125842.png]]
+![[New folder/Pasted image 20231022125842.png]]
 
-![[Pasted image 20231022125859.png]]
+![[New folder/Pasted image 20231022125859.png]]
 ### **1.2. DC Analysis - Id vs Vds plot (constant Vgs)**
 
 With constant Vgs as 1v and varying Vds to produce Id (one plot only).
 For current choose node and for voltage choose wire in schematic.
 
-![[Pasted image 20231022130337.png]]
+![[New folder/Pasted image 20231022130337.png]]
 ### **1.3 DC Analysis - Id vs Vds plot (varying Vgs)**
 
 With varying Vgs (changing it to Vgs in edit properties of Vgs symbol), giving it as a parameter by initializing it in the variable box in the ADE L window and giving it some parametric values.
 
-![[Pasted image 20231022130529.png]]
+![[New folder/Pasted image 20231022130529.png]]
 
 ![[Pasted image 20231022130543.png]]
 ### **1.4 DC Analysis - Id vs Vgs plot (constant Vds)**
