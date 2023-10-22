@@ -399,3 +399,14 @@ And from these we can find the noise margin values mathematically.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
