@@ -1,3 +1,4 @@
+# Inverter Design and Analysis using Cadence Virtuoso
 >*Design of Inverter using NMOS and PMOS and their detailed analysis along with the Characteristics of NMOS and PMOS*
 
 This basic project acts as a bridge and a guide for the usage of EAD tool Cadence Virtuoso and also gives us an insight about the Inverter properties, NMOS characteristics, PMOS characteristics. In the initial stages we will go for the characteristics of NMOS transistor, then PMOS transistor and later the Inverter. This project is performed fully in Cadence Virtuoso with instantiation of a new user created library in gpdk 090 technology.
