@@ -4,48 +4,48 @@
 This basic project acts as a bridge and a guide for the usage of EAD tool Cadence Virtuoso and also gives us an insight about the Inverter properties, NMOS characteristics, PMOS characteristics. In the initial stages we will go for the characteristics of NMOS transistor, then PMOS transistor and later the Inverter. This project is performed fully in Cadence Virtuoso with instantiation of a new user created library in gpdk 090 technology.
 # *Contents*
 ## 1. NMOS Characteristics
-1.1 Creating a Schematic
-1.2 DC Analysis - Id vs Vds plot (constant Vgs)
-1.3 DC Analysis - Id vs Vds plot (varying Vgs)
-1.4 DC Analysis - Id vs Vgs plot (constant Vds)
-1.5 DC Analysis - Id vs Vgs plot (varying Vds)
-1.6 Giving most negative voltage to body to reduce body effect
-1.7 Variation for voltages less than Vth
-1.8 Variation of Id and Vgs plot on parametrically varying Vsb
+1.1 Creating a Schematic<br>
+1.2 DC Analysis - Id vs Vds plot (constant Vgs)<br>
+1.3 DC Analysis - Id vs Vds plot (varying Vgs)<br>
+1.4 DC Analysis - Id vs Vgs plot (constant Vds)<br>
+1.5 DC Analysis - Id vs Vgs plot (varying Vds)<br>
+1.6 Giving most negative voltage to body to reduce body effect<br>
+1.7 Variation for voltages less than Vth<br>
+1.8 Variation of Id and Vgs plot on parametrically varying Vsb<br>
 ## 2. PMOS Characteristics
-2.1 Creating a Schematic
-2.2 DC Analysis - Id vs Vsd plot (constant Vsg)
-2.3 DC Analysis - Id vs Vsd plot (varying Vsg)
-2.4 DC Analysis - Id vs Vsg plot (constant Vsd)
-2.5 DC Analysis - Id vs Vsg plot (varying Vsd)
-2.6 Giving most positive voltage to body to reduce body effect
-2.7 Variation for voltages less than Vth
-2.8 Variation of Id and Vsg plot on parametrically varying Vsb
+2.1 Creating a Schematic<br>
+2.2 DC Analysis - Id vs Vsd plot (constant Vsg)<br>
+2.3 DC Analysis - Id vs Vsd plot (varying Vsg)<br>
+2.4 DC Analysis - Id vs Vsg plot (constant Vsd)<br>
+2.5 DC Analysis - Id vs Vsg plot (varying Vsd)<br>
+2.6 Giving most positive voltage to body to reduce body effect<br>
+2.7 Variation for voltages less than Vth<br>
+2.8 Variation of Id and Vsg plot on parametrically varying Vsb<br>
 ## 3. NMOS Pass Transistor Logic
-3.1. Creating a Schematic
-3.2. Transient Analysis of Vin and Vout
+3.1. Creating a Schematic<br>
+3.2. Transient Analysis of Vin and Vout<br>
 ## 4. PMOS Pass Transistor Logic
-4.1. Creating a Schematic
-4.2. Transient Analysis of Vin and Vout
+4.1. Creating a Schematic<br>
+4.2. Transient Analysis of Vin and Vout<br>
 ## 5. NMOS Propagation Delay (tpHL)
-5.1. Creating a schematic
-\5.2. Transient Analysis of Vin and Vout
-5.3. Calculating the mathematical value of Delay (tpHL)
+5.1. Creating a schematic<br>
+5.2. Transient Analysis of Vin and Vout<br>
+5.3. Calculating the mathematical value of Delay (tpHL)<br>
 ## 6. PMOS Propagation Delay (tpLh)
-6.1. Creating a schematic
-6.2. Transient Analysis of Vin and Vout
-6.3. Calculating the mathematical value of Delay (tpLH)
+6.1. Creating a schematic<br>
+6.2. Transient Analysis of Vin and Vout<br>
+6.3. Calculating the mathematical value of Delay (tpLH)<br>
 ## 7. Transmission Gate
-7.1. Creating a Schematic
-7.2. Creating a Symbol
-7.3. Creating a Symbol’s Testbench
-7.4 Analysis of the gate
-7.5 Delay of Tx Gate
+7.1. Creating a Schematic<br>
+7.2. Creating a Symbol<br>
+7.3. Creating a Symbol’s Testbench<br>
+7.4 Analysis of the gate<br>
+7.5 Delay of Tx Gate<br>
 ## 8. INVERTER Characteristics
-8.1 Creating the Schematic
-8.2 Creating the Symbol of Inverter
-8.3 Creating the symbol’s testbench
-8.4 Analysis of Inverter (Transient, DC analysis)
+8.1 Creating the Schematic<br>
+8.2 Creating the Symbol of Inverter<br>
+8.3 Creating the symbol’s testbench<br>
+8.4 Analysis of Inverter (Transient, DC analysis<br>
 ## 9. Switching Threshold of Inverter (for same mid voltage for Vin=Vout=(Vdd/2))
 ## 10. Inverter same rise time and fall time (wpn for same rise time and fall time)
 ## 11. Noise Margin of Inverter
